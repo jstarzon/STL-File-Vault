@@ -1,85 +1,70 @@
+# Getting Started with Create React App
 
-# STL File Vault
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-STL File Vault is a web application that provides a secure platform for users to upload and store STL (Standard Tessellation Language) files. It offers an intuitive interface for uploading files, collecting contact details, and securely storing them on the server.
+## Available Scripts
 
-## Features
+In the project directory, you can run:
 
-- Easy file upload: Drag and drop STL files onto the upload area or click to select files.
-- File format validation: Only accepts STL files to ensure data integrity.
-- Contact details collection: Capture user's contact details including name, email, and message.
-- Secure storage: All uploaded files and contact details are securely stored on the server.
-- User feedback: Receive confirmation messages upon successful file upload and contact details submission.
+### `npm start`
 
-## Technologies Used
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-- Front-end: React.js, HTML, CSS
-- Back-end: Node.js, Express.js
-- Database: MongoDB (or any other database of your choice)
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-## Installation
+### `npm test`
 
-1. Clone the repository:
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-```shell
-git clone https://github.com/jstarzon/STL-File-Vault/
-```
+### `npm run build`
 
-2.Navigate to the project directory:
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-```shell
-cd stl-file-vault
-```
-  
-3.Install the dependencies:
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-```shell
-npm install
-```
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-4.Start the development server:
+### `npm run eject`
 
- ```shell
- npm start
- ```
-  
-Open your web browser and visit http://localhost:3000 to access the application.
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-## Usage
-Drag and drop an STL file onto the designated area or click to select a file.
-Fill in the contact details (name, email, and message).
-Click the "Submit" button to upload the file and submit the contact details.
-You will receive a success message upon successful submission.
-The uploaded file and contact details will be securely stored on the server.
-Contributing
-Contributions are welcome! If you'd like to contribute to STL File Vault, please follow these steps:
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Fork the repository.
-Create a new branch for your feature/bug fix.
-Commit your changes and push the branch to your forked repository.
-Submit a pull request describing your changes.
-License
-This project is licensed under the MIT License.
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-Acknowledgements
-React
-Node.js
-Express.js
-MongoDB# STL File Vault
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-STL File Vault is a web application that provides a secure platform for users to upload and store STL (Standard Tessellation Language) files. It offers an intuitive interface for uploading files, collecting contact details, and securely storing them on the server.
+## Learn More
 
-## Features
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-- Easy file upload: Drag and drop STL files onto the upload area or click to select files.
-- File format validation: Only accepts STL files to ensure data integrity.
-- Contact details collection: Capture user's contact details including name, email, and message.
-- Secure storage: All uploaded files and contact details are securely stored on the server.
-- User feedback: Receive confirmation messages upon successful file upload and contact details submission.
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-## Technologies Used
+### Code Splitting
 
-- Front-end: React.js, HTML, CSS
-- Back-end: Node.js, Express.js
-- Database: MongoDB (or any other database of your choice)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
