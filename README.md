@@ -3,7 +3,7 @@
 
 STL File Vault is a web application that provides a secure platform for users to upload and store STL (Standard Tessellation Language) files. It offers an intuitive interface for uploading files, collecting contact details, and securely storing them on the server.
 
-I use it to 3D print things for my friends. They just simply put their file and info what should I do with it. 
+As I continue my journey of learning React, I've created this application to streamline the process of 3D printing for my friends. With STL File Vault, they can easily upload their STL files and provide specific instructions, allowing me to bring their creations to life.
 
 ## Features
 
