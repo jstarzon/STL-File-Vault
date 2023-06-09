@@ -83,5 +83,6 @@ STL File Vault is a web application that provides a secure platform for users to
 - Front-end: React.js, HTML, CSS
 - Back-end: Node.js, Express.js
 - Database: MongoDB (or any other database of your choice)
-!(image)[https://i.imgur.com/w3JR82H.jpg]
+
+![Imgur Image](https://i.imgur.com/w3JR82H.jpg)
 
