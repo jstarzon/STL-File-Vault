@@ -20,8 +20,7 @@ As I continue my journey of learning React, I've created this application to str
 - Database: MongoDB (or any other database of your choice)
 
 ## Installation
-
-1. Clone the repository:
+1.Clone the repository:
 
 ```shell
 git clone https://github.com/jstarzon/STL-File-Vault/
